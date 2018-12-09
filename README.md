@@ -1,4 +1,4 @@
-# Bus Paths
+# Trip Planner
 Given a map, this program finds the path that is the most efficient with the least amount of transfers using graphs and DFS to get from the start to the end. This path is highlighted by a red line.
 
 # Example Solutions
