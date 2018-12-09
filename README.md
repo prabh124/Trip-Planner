@@ -1,5 +1,8 @@
 # Trip Planner
-Given a map, this program finds the path that is the most efficient with the least amount of transfers using graphs and DFS to get from the start to the end. This path is highlighted by a red line.
+
+Searches through given maps to find the most efficient route with the least amount of bus changes to get from one point of a city to another similar to Google Maps. This was accomplished by utilizing Graphs,  DFS, and Dijkstra's algorithm to complete the path. Every edge of the graph represents a street and every node represents either the intersection of two streets or the end of a dead-end street. 
+
+The path is highlighted by a red line
 
 # Example Solutions
 
